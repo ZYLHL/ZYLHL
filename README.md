@@ -1,10 +1,12 @@
-👋 Hi, I' m @ZYLHL
+👋 Hi, I' m L_inkOO
 
-👀 Here is my [blog](https://blog.linkmc.cloud)
+👀 Here is my [Blog](https://blog.linkmc.cloud)
 
-☁ You can get any files I shared from my [One Drive](https://linkmc.cloud)
+🎮 I am maintaining a Minecraft server, you can know more about it in its' [official website](https://www.linkmc.cloud)
 
-📫 You can find me on twitter @ZYLHL or mail at [E-mail](mailto:admin@udjh.onmicrosoft.com)
+☁ You can get any files I shared from my [One Drive](https://onedrive.linkmc.cloud)
+
+📫 You can find me on twitter @ZYLHL or mail at [E-mail](mailto:admin@linkmc.cloud)
 
 <!---
 ZYLHL/ZYLHL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
